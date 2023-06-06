@@ -11,6 +11,9 @@
 
 <p align="center"><em>The example above was created with Slate. Check it out at <a href="https://slatedocs.github.io/slate">slatedocs.github.io/slate</a>.</em></p>
 
+[DEMO](https://manjeete.github.io/slate-api-documetation-repo/#introduction)
+
+
 Features
 ------------
 
@@ -35,6 +38,6 @@ Getting started with Slate is super easy! Simply press the green "use this templ
 Getting Started with Slate
 ------------------------------
 
-To get started with Slate, please check out the [Getting Started](https://github.com/slatedocs/slate/wiki#getting-started)
+To get started with Slate, please check out the [DEMO](https://manjeete.github.io/slate-api-documetation-repo/#introduction)
 section in our [wiki](https://github.com/slatedocs/slate/wiki).
 
